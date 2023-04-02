@@ -1,8 +1,4 @@
-# Police Crime Record Management System v1.0 has Cross-site scripting (reflected)
-
 BUG_Author:Derek_Zhang
-
-Website source address:https://www.sourcecodester.com/php/14894/police-crime-record-management-system.html
 
 Vulnerability File: /ghpolice/admin/casedetails.php
 
